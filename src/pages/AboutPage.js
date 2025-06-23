@@ -1,5 +1,5 @@
 import React from 'react';
-import authorImage from '../assets/Reginapic2updated.JPG';
+import authorImage from '../assets/Reginapic2updated.jpg';
 
 const AboutPage = () => {
   return (
