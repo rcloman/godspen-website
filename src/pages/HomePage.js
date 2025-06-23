@@ -80,7 +80,7 @@ const HomePage = () => {
             </div>
           </div>
         </div>
-      </section> authorImage from '../assets/Reginapic2updated.jpg';
+      </section>
 
       {/* About Snippet */}
       <section className="py-16 bg-cream">
